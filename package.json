@@ -64,8 +64,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js",
-    "eject": "node scripts/eject"
+    "test": "node scripts/test.js"
   },
   "eslintConfig": {
     "extends": "react-app"
