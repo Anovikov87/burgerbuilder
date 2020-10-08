@@ -1,4 +1,20 @@
 Burger builder
+Web-app for ordering burgers, build using React.
+Things you can do: 
+1. Change ingredients
+2. Make an order 
+3. Browse created orders
+4. Create an account
+5. Log in/Log out
+
+Additional features:
+1. Mobile browser friendly
+2. Error handling
+3. Simple form validation
+4. Redux
+5. Redux thunk - async methods
+6. JWT authorization
+
 Веб-Приложение для заказа бургеров (React). Действия реализованные в приложении:
 
 1. Изменить ингридиенты бургера.
